@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="7.111">
+    <testcase classname="Searching in google" name="Finding Selenium Tutorials" time="6.904">
+        <system-out><![CDATA[Given I am on the Google search page........................................passed
+When I search for "Selenium"................................................passed
+Then the page title should start with "selenium"............................passed
+And number of result equal to 30............................................passed
+And result equal 23.........................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
